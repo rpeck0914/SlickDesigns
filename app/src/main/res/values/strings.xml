@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Slick Designs</string>
+    
+    <string name="title_section1">Gallery</string>
+    <string name="title_section2">Create Order</string>
+    <string name="title_section3">About Us</string>
+    <string name="title_section4">Contact Us</string>
+    <string name="title_section5">Exit</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">Slick Designs</string>
+
+    <!-- Create Order Strings -->
+    <string name="create_order_title">Create Order</string>
+    <string name="enter_name_title">Name: </string>
+    <string name="enter_email_title">Email: </string>
+    <string name="enter_phone_title">Phone Number: </string>
+    <string name="type_of_order_title">Type: </string>
+    <string name="type_color_title">Color: </string>
+    <string name="qty_title">Qty: </string>
+    <string name="insert_image_title">Add Image: </string>
+    <string name="additional_comments_title">Additional Comments:</string>
+    <string name="submit_order_button">Submit Order</string>
+
+    <string name="hello_world">Hello world!</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
